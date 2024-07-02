@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/alhera_ahmad" target="blank"><img src="https://img.shields.io/twitter/follow/alhera_ahmad?logo=twitter&style=for-the-badge" alt="alhera_ahmad" /></a> </p>
 
--  I’m currently learning **Sveltekit**, **DBMS** & **DSA**.
+-  I’m currently learning **Sveltekit**.
 
 -  All of my projects are available at [gentleshah.netlify.app/](https://gentleshah.netlify.app/)
 
