@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/alhera_ahmad" target="blank"><img src="https://img.shields.io/twitter/follow/alhera_ahmad?logo=twitter&style=for-the-badge" alt="alhera_ahmad" /></a> </p>
 
--  I’m currently learning **Sveltekit**.
+-  I’m currently practicing **Data Structures and Algorithms**  .
 
 -  All of my projects are available at [gentleshah.netlify.app/](https://gentleshah.netlify.app/)
 
@@ -15,13 +15,13 @@
  
 -  Did Computer Engineering from one of the Top University of India- AMU. 
 
--  Ask me about **JavaScript & Frontend Development**
+-  Ask me about **C++, JavaScript & Frontend Development**
 
 -  How to reach me **alheraahmad0786@gmail.com**
 
 -  Know about my experiences [Resume -GoogleDrive](https://drive.google.com/file/d/14o8IZ2s6uuDmK7LpqL3jiIaOf8eYabP5/view)
 
--  Languages & tools I am familiar with: **Typescript, React, React-Native, NodeJS, ElasticSearch, Postman, Kibana, Docker, TailwindCSS & git**.
+-  Languages & tools I am familiar with: **C++, JavaScript, Typescript, React, React-Native, NodeJS, ElasticSearch, Postman, Kibana, Docker, TailwindCSS & git**.
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
