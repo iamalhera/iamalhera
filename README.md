@@ -5,7 +5,7 @@
 
 -  I’m currently practicing **Data Structures and Algorithms**  .
 
--  All of my projects are available at [gentleshah.netlify.app/](https://gentleshah.netlify.app/)
+-  All of my projects are available at [alhera.me/](https://www.alhera.me/)
 
 - ex-SWE Intern @ Kayrros -An Environmental Intelligence French Startup, 6 months
   - Contributed to couple of projects in the development/bugFix of their frontend.
