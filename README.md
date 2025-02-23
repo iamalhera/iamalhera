@@ -7,6 +7,8 @@
 
 -  All of my projects are available at [alhera.me/](https://www.alhera.me/)
 
+-  Open Source Contributer at Team Shiksha [Contributtions/](https://github.com/TeamShiksha/openlogo/pulls?q=is%3Apr+is%3Aclosed+author%3Aiamalhera)
+
 - ex-SWE Intern @ Kayrros -An Environmental Intelligence French Startup, 6 months
   - Contributed to couple of projects in the development/bugFix of their frontend.
   - Developed end-to-end of USCarbonWatch a subsidiary of CarbonWatch Products and deployed successfully.
